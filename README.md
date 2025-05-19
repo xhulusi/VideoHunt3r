@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ## ▶️ How to Run
 
 ```bash
-python src/main.py
+python main.py
 ```
 
 > GUI will open — paste a YouTube URL and start downloading!
