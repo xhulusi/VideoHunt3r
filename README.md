@@ -20,8 +20,8 @@ Paste a YouTube link, view metadata, and download the video in your preferred fo
 
 ## 🖼️ Screenshots
 
-| GUI | Downloading |
-|-----|-------------|
+| GUI | 
+|-----|
 | ![](screenshots/gui.png)
 
 ---
