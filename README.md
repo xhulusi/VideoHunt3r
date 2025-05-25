@@ -83,8 +83,9 @@ python main.py
 
 ## 📖 Blog Post
 
-A detailed Medium post will be published soon.  
-**[Coming soon…](https://medium.com/@officialhulusi)**
+I wrote a full Medium article explaining how I built this project step-by-step:  
+👉 [Read the article on Medium](https://medium.com/@officialhulusi/b8c663fd1d98)
+
 
 ---
 
